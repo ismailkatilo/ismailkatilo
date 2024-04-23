@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismailkatilo
 - 👀 I’m interested in Technologies
-- 🌱 I’m currently learning Cloud engineering
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
